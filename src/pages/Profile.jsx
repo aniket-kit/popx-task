@@ -7,7 +7,7 @@ const Profile = () => {
 
   return (
     <div className="min-h-screen bg-gray-50 flex items-start justify-center">
-      <div className="border border-gray-200 w-full h-140 max-w-md mx-4 mt-8">
+      <div className="border rounded border-gray-200 w-full h-140 max-w-md mx-4 mt-8">
 
         <div className="bg-white rounded-t-xl shadow-none">
 
